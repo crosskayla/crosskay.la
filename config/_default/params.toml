@@ -12,13 +12,13 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = ""
+subtitle = "Coding, writing, and photography."
 
 [sidebar.avatar]
 enabled = true
-local = true
-src = "img/avatar.png"
+local = false
+src = "https://media.licdn.com/dms/image/D5603AQHUEiXRsd9Wig/profile-displayphoto-shrink_800_800/0/1683238978787?e=2147483647&v=beta&t=M7rGIG29IKbq7Wk0_IE2j2sTiGezmAxrb34TB33qkUw"
 
 [article]
 math = false
